@@ -1,0 +1,51 @@
+**Projekt Neve: Az Elhagyatott Ház**
+
+**Játék Dokumentáció**
+
+*Merüljön el az elhagyatott ház rejtélyeiben, ahol egyetlen szörny leselkedik!*
+
+**1. Bevezetés**
+
+*Az Elhagyatott Ház* egy lenyűgöző horror játék, amely egy sötét erdő mélyén álló elhagyatott házban játszódik. A játék során a játékosnak egy veszélyes szörnyt kell elkerülnie és a ház rejtélyeit megfejtenie a túlélésért.
+
+**2. Játékmenet**
+
+*A játék során a játékosnak a következő feladatokat kell megoldania:*
+
+- **Szörny elkerülése:** A játékosnak ügyesen kell manővereznie az elhagyatott házban, hogy elkerülje a rémisztő szörnyet, amely a nyomában leselkedik.
+  
+- **Feladatok végrehajtása:** A játékosnak különféle feladatokat kell teljesítenie a házban, hogy információkat szerezzen a szörnyről és a ház titkairól.
+  
+- **Tárgyak gyűjtése:** A játékosnak fontos tárgyakat kell megtalálnia a házban, amelyek segítségével túléli a szörny támadásait.
+
+**3. Kreativitás és Ötletesség**
+
+*A játék kiemelkedő jellemzői:*
+
+- **Egyedi pályatervezés:** Az elhagyatott ház és környezete részletekbe menő kialakítása lenyűgöző környezetet teremt a játékos számára.
+  
+- **Változatos feladatok:** A feladatok sokszínűsége és ötletessége fokozza a játék élményét és izgalmát.
+  
+- **Szörny design:** A szörny karaktere lenyűgöző és félelmetes, megfelelően megragadva a horror hangulatát.
+
+**4. Grafika és Hang**
+
+*A játék megvalósítása során a következő grafikai és hanghatásokat kell felhasználni:*
+
+- **Sötét atmoszféra:** Az elhagyatott ház sötét és rémisztő hangulatot áraszt, fokozva a játék izgalmát.
+  
+- **Félelmetes hangok:** A hátborzongató zene és hanghatások tovább fokozzák a játék félelmetes hangulatát.
+
+**5. Végső Cél és Kihívások**
+
+*A játék végleges célja és kihívásai:*
+
+- **A szörny legyőzése:** A játékosnak szembe kell néznie a félelmetes szörnnyel, és meg kell küzdenie életeért, hogy túlélje és megszabaduljon az elhagyatott ház rémisztő környezetétől.
+
+**6. Promóciós Anyagok és Git Használata**
+
+- *Promóciós anyagok:** A játék promóciós anyagai magával ragadó designnal és lenyűgöző grafikával rendelkeznek, hogy felkeltsék a játékosok érdeklődését.
+  
+- *Git Használata:** A csapat aktívan használja a Git verziókezelő rendszert a fejlesztés során, biztosítva a folyamatos haladást és az egységességet a projektben.
+
+*A *Az Elhagyatott Ház* egy olyan horror játék, amelynek minden részlete a játékosok legmélyebb félelmeit hozza felszínre. Merüljön el az elhagyatott ház rejtélyeiben és próbálja meg túlélni ezt a félelmetes kalandot!*
